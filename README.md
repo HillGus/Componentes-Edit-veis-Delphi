@@ -1,1 +1,1 @@
-# Componentes-Edit-veis-Delphi
+# Componentes-Editaveis-Delphi
