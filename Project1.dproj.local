@@ -2,14 +2,15 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2018/05/16 13:17:31.000.464,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/05/16 13:19:05.000.246,C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Editar componentes no programa\uFrmMain.pas</Transaction>
-    <Transaction>2018/05/16 13:19:05.000.246,C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Editar componentes no programa\uFrmMain.dfm</Transaction>
-    <Transaction>2018/05/16 13:21:07.000.710,C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Editar componentes no programa\Project1.dproj</Transaction>
+    <Transaction>2018/05/16 13:19:05.000.246,C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Editar componentes no programa\uFrmMain.pas=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/16 13:19:05.000.246,C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Editar componentes no programa\uFrmMain.dfm=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/05/16 13:21:07.000.710,C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Editar componentes no programa\Project1.dproj=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2018/05/20 21:56:09.000.218,=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\Unit1.pas</Transaction>
     <Transaction>2018/05/20 21:56:29.000.283,=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\Unit2.pas</Transaction>
-    <Transaction>2018/05/20 22:04:28.000.620,C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\uFrmExpecific.dfm=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\Unit2.dfm</Transaction>
-    <Transaction>2018/05/20 22:04:28.000.620,C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\uFrmExpecific.pas=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\Unit2.pas</Transaction>
+    <Transaction>2018/05/20 22:04:28.000.620,C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\Unit2.dfm=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\uFrmExpecific.dfm</Transaction>
+    <Transaction>2018/05/20 22:04:28.000.620,C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\Unit2.pas=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\uFrmExpecific.pas</Transaction>
     <Transaction>2018/05/21 15:58:23.000.711,=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\Unit1.pas</Transaction>
-    <Transaction>2018/05/21 15:58:47.000.949,C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\Unit1.pas=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\unitTeste.pas</Transaction>
+    <Transaction>2018/05/21 15:58:47.000.949,C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\unitTeste.pas=C:\Users\Gustavo\Desktop\Gustavo Show\Programação\Delphi\Componentes Editáveis\Unit1.pas</Transaction>
+    <Transaction>2018/05/22 13:58:37.396,C:\Users\Aluno\Downloads\Componentes-Editaveis-Delphi-master\unitTeste.pas=</Transaction>
   </Transactions>
 </BorlandProject>

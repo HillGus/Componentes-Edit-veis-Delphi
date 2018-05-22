@@ -3,8 +3,7 @@ program Project1;
 uses
   Forms,
   uFrmMain in 'uFrmMain.pas' {Form1},
-  uFrmExpecific in 'uFrmExpecific.pas' {Form2},
-  unitTeste in 'unitTeste.pas';
+  uFrmExpecific in 'uFrmExpecific.pas' {Form2};
 
 {$R *.res}
 
